@@ -1,4 +1,4 @@
-# redbeard for oh-my-zsh
+# redbeard theme for oh-my-zsh
 
 redbeard is a [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh) theme based directly on
 the famous default robbyrussell theme
